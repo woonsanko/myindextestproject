@@ -1,0 +1,6 @@
+/hst:hst/hst:configurations/myindextestproject/hst:workspace/hst:containers/base/top/search:
+  jcr:primaryType: hst:containeritemcomponent
+  hst:iconpath: images/essentials/catalog-component-icons/search-box.png
+  hst:label: Search Box
+  hst:template: search-box
+  hst:xtype: hst.item

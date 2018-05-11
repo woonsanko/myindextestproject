@@ -1,0 +1,6 @@
+group: 
+  name: myindextestproject
+  after: hippo-cms
+project: myindextestproject
+module:
+  name: myindextestproject-repository-data-application

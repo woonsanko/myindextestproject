@@ -1,0 +1,90 @@
+definitions:
+  config:
+    /hippo:configuration/hippo:translations/hippo:types/myindextestproject:newsdocument:
+      jcr:primaryType: hipposys:resourcebundles
+      /en:
+        jcr:primaryType: hipposys:resourcebundle
+        jcr:name: News Item
+        myindextestproject:author: Author
+        myindextestproject:content: Content
+        myindextestproject:date: Date
+        myindextestproject:image: Image
+        myindextestproject:introduction: Introduction
+        myindextestproject:location: Location
+        myindextestproject:source: Source
+        myindextestproject:title: Title
+      /nl:
+        jcr:primaryType: hipposys:resourcebundle
+        jcr:name: Nieuwsbericht
+        myindextestproject:author: Auteur
+        myindextestproject:content: Inhoud
+        myindextestproject:date: Datum
+        myindextestproject:image: Afbeelding
+        myindextestproject:introduction: Introductie
+        myindextestproject:location: Locatie
+        myindextestproject:source: Bron
+        myindextestproject:title: Titel
+      /de:
+        jcr:primaryType: hipposys:resourcebundle
+        jcr:name: News
+        myindextestproject:author: Verfasser
+        myindextestproject:content: Inhalt
+        myindextestproject:date: Datum
+        myindextestproject:image: Abbildung
+        myindextestproject:introduction: Einführung
+        myindextestproject:location: Standort
+        myindextestproject:source: Quelle
+        myindextestproject:title: Titel
+      /fr:
+        jcr:primaryType: hipposys:resourcebundle
+        jcr:name: Message d'info
+        myindextestproject:author: Auteur
+        myindextestproject:content: Contenu
+        myindextestproject:date: Date
+        myindextestproject:image: Image
+        myindextestproject:introduction: Introduction
+        myindextestproject:location: Lieu
+        myindextestproject:source: Source
+        myindextestproject:title: Titre
+    /hippo:configuration/hippo:translations/hippo:types/myindextestproject:eventsdocument:
+      jcr:primaryType: hipposys:resourcebundles
+      /en:
+        jcr:primaryType: hipposys:resourcebundle
+        jcr:name: Event
+        myindextestproject:content: Content
+        myindextestproject:date: Start date
+        myindextestproject:enddate: End date
+        myindextestproject:image: Image
+        myindextestproject:introduction: Introduction
+        myindextestproject:location: Location
+        myindextestproject:title: Title
+      /nl:
+        jcr:primaryType: hipposys:resourcebundle
+        jcr:name: Evenement
+        myindextestproject:content: Inhoud
+        myindextestproject:date: Startdatum
+        myindextestproject:enddate: Einddatum
+        myindextestproject:image: Afbeelding
+        myindextestproject:introduction: Introductie
+        myindextestproject:location: Locatie
+        myindextestproject:title: Titel
+      /fr:
+        jcr:primaryType: hipposys:resourcebundle
+        jcr:name: Événement
+        myindextestproject:content: Contenu
+        myindextestproject:date: Date de début
+        myindextestproject:enddate: Date de fin
+        myindextestproject:image: Image
+        myindextestproject:introduction: Introduction
+        myindextestproject:location: Lieu
+        myindextestproject:title: Titre
+      /de:
+        jcr:primaryType: hipposys:resourcebundle
+        jcr:name: Event
+        myindextestproject:content: Inhalt
+        myindextestproject:date: Startdatum
+        myindextestproject:enddate: Enddatum
+        myindextestproject:image: Abbildung
+        myindextestproject:introduction: Einführung
+        myindextestproject:location: Standort
+        myindextestproject:title: Titel

@@ -1,0 +1,7 @@
+/content/gallery/myindextestproject:
+  jcr:primaryType: hippogallery:stdImageGallery
+  jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+  jcr:uuid: 4a6cd411-a927-4a86-b4fa-214c29a28988
+  hippo:name: My Index Test Project
+  hippostd:foldertype: [new-image-folder]
+  hippostd:gallerytype: ['hippogallery:imageset']
